@@ -1,0 +1,5 @@
+title: "豆包 Seedance 2.5 API 调用教程（TryAllAPI）"
+description: "How to call Doubao Seedance 2.5 via TryAllAPI — async video generation API tutorial. 模型广场选型、价格表、POST/GET 异步出片。"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
